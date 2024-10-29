@@ -1,1 +1,2 @@
 This is another example file.
+This line is a modification to the original file.
