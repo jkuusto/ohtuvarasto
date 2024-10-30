@@ -1,3 +1,0 @@
-This is an example file.
-This line is a modification to the original file.
-This line was added to test the -p switch for staging files.

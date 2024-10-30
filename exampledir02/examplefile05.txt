@@ -1,2 +1,0 @@
-This is the fifth example file.
-This line is a modification to the original file.
