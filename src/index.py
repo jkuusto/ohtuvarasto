@@ -53,6 +53,8 @@ def main():
     print(f"saatiin {saatiin}")
     print(f"Mehuvarasto: {mehua}")
 
+# Comment for testing purposes
+
 
 if __name__ == "__main__":
     main()
