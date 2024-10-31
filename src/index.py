@@ -54,6 +54,7 @@ def main():
     print(f"Mehuvarasto: {mehua}")
 
 # Comment for testing purposes
+# Another comment for testing purposes
 
 
 if __name__ == "__main__":
